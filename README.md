@@ -1,2 +1,2 @@
 # csci_6221_repository
-group repository
+group repository for kotlin project
